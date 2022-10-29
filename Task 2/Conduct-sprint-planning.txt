@@ -1,0 +1,33 @@
+Sprint goals:
+        - Create databse for all users
+        - Create homepage with restaurants
+        - Create search fuction
+        - adding payment system to be able to pay with credit card or POD
+        - Create dashboard for restaurant owners 
+             
+Team Capacity:
+	- 5 members per team
+	- 40 hours per week
+	- 10 hours per sprint
+
+Product backlog Items:
+         
+
+            Epic	                                     User Story
+      View Restaurants		As a user , I want to view restaurants in app so that i can order from them	       
+     Search Restaurants   	As a user , I want to search for a particular restaurant in app so that i can order
+         View Menu	        As a user , I want to view menu for each restaurant with pics so that i can choose what to order
+        Add to Cart	        As a user , i want to add items to cart so that i can complete my order
+          Purchase	        As a registered user, i want to be able to purchase for my order by credit or POD so that i can pay for the items i added to cart
+    Restaurant views order	As a restaurant, i want to recieve orders assigned to me so that i can prepare the food to be out for delivery
+    Restaurant marks order      As a restaurants,  I want a dashboard so that I can view and track orders and mark finished one as delivered 
+    as delivered                   
+
+
+Sprint Tasks:
+        - Create databse for all users
+        - Create homepage with restaurants
+        - Create search fuction
+        - adding payment system to be able to pay with credit card or POD
+        - Create dashboard for restaurant owners 
+    
